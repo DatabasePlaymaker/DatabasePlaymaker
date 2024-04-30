@@ -12,9 +12,6 @@ Undergraduate Information System Student at Nasional University<br>Machine Learn
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DatabasePlaymaker&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DatabasePlaymaker&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DatabasePlaymaker&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
