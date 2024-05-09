@@ -1,5 +1,5 @@
 ## 👤 About Me :
-Undergraduate Information System Student at Nasional University<br>Machine Learning Enthusiast 👨‍💻<br>One Day One Sentiment Analysis 📝<br>Focus on Sentiment Analysis 🎯
+Undergraduate Information System Student at Nasional University<br>Machine Learning Enthusiast 👨‍💻<br>One Day One Sentiment Analysis 📝<br>Focus on Sentiment Analysis 🎯<br>Naive Bayes & Support Vector Machine CLassifier.
 
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ichsan-dicki-fareza/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dickiichsan86) 
