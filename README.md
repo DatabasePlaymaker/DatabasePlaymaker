@@ -2,7 +2,19 @@
 Undergraduate Information System Student at Nasional University<br>Machine Learning Enthusiast 👨‍💻<br>One Day One Sentiment Analysis 📝<br>Focus on Sentiment Analysis 🎯<br>Naive Bayes & Support Vector Machine CLassifier.
 
 ## 🌐 Socials :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ichsan-dicki-fareza/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dickiichsan86) 
+<div align="left">
+  <a href="https://www.linkedin.com/in/ichsan-dicki-fareza/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@dickiichsan86" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/skylucifer7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
 
 # 💻 Tech Skills :
 <div align="left">
