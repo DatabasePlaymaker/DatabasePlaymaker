@@ -21,11 +21,6 @@ Undergraduate Information System Student at Nasional University<br>Machine Learn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=dickiichsan86&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=DatabasePlaymaker&icon=2&color=1)](https://visitcount.itsvg.in)
 
