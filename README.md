@@ -14,9 +14,7 @@ Undergraduate Information System Student at Nasional University<br>Machine Learn
   </a>
 </div>
 
-###
-
-# 💻 Tech Skills :
+## 💻 Tech Skills :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -33,9 +31,8 @@ Undergraduate Information System Student at Nasional University<br>Machine Learn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+## 📍 Visitor :
 <div align="left">
   <img src="https://profile-counter.glitch.me/DatabasePlaymaker/count.svg?"  />
 </div>
-
-###
 
