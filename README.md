@@ -41,3 +41,5 @@ Undergraduate Information System Student at Nasional University<br>Machine Learn
   <img src="https://profile-counter.glitch.me/DatabasePlaymaker/count.svg?"  />
 </div>
 
+## 🐍 Snake :
+![snake gif](https://github.com/DatabasePlaymaker/DatabasePlaymaker/blob/output/github-contribution-grid-snake.gif)
