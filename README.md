@@ -1,4 +1,3 @@
-## 👋🏼 Meme :
 <div align="center">
   <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRrZDJ1NzVlbDk4anJqeWsxYnY5eGFldnQ3MGYzNDZ1MWx5YndpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif"  />
 </div>
