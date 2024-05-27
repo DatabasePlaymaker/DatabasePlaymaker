@@ -35,7 +35,7 @@ Undergraduate Information System Student at Nasional University<br>Machine Learn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-## 📍 Visitor :
+## 👀 Visitor :
 <div align="left">
   <img src="https://profile-counter.glitch.me/DatabasePlaymaker/count.svg?"  />
 </div>
