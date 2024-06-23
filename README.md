@@ -45,9 +45,11 @@ Undergraduate Information System Student at Nasional University<br>Machine Learn
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DatabasePlaymaker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DatabasePlaymaker&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=DatabasePlaymaker&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DatabasePlaymaker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=DatabasePlaymaker&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="140" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DatabasePlaymaker&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="263" alt="activity-graph graph"  />
 </div>
+
+###
 
 ###
