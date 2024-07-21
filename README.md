@@ -1,8 +1,8 @@
-<h2 align="left">Hello 👋🏼 , I am Ichsan (●'◡'●)</h2>
+<h1 align="left">Hello 👋🏼 , I am Ichsan (●'◡'●)</h1>
 
 ###
 
-<h3 align="left">About Me 👨🏽‍💻 :</h3>
+<h2 align="left">About Me 👨🏽‍💻 :</h2>
 
 ###
 
@@ -10,21 +10,21 @@
 
 ###
 
-<h3 align="left">Meme 🤡 :</h3>
+<h2 align="left">Meme 🤡 :</h2>
 
 ###
 
 ###
 
 <div align="left">
-  <img width="400" height="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBzMGZoeHFidjk0Nm4zaGttN3Q4OWdrazFjeDEwMzFqb2ptaXB1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif"  />
+  <img width="250" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBzMGZoeHFidjk0Nm4zaGttN3Q4OWdrazFjeDEwMzFqb2ptaXB1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif"  />
 </div>
 
 ###
 
 ###
 
-<h3 align="left">Tech Skills 💻 :</h3>
+<h2 align="left">Tech Skills 💻 :</h2>
 
 ###
 
@@ -50,11 +50,11 @@
 
 ###
 
-<h3 align="left">Activity ♻ :</h3>
+<h2 align="left">Activity ♻ :</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=DatabasePlaymaker&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
