@@ -10,15 +10,21 @@
 
 ###
 
-<h3 align="left">About Me 👨🏽‍💻 :</h3>
+<h3 align="left">Meme 🤡 :</h3>
 
 ###
 
 ###
 
 <div align="left">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBzMGZoeHFidjk0Nm4zaGttN3Q4OWdrazFjeDEwMzFqb2ptaXB1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif"  />
+  <img width="400" height="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBzMGZoeHFidjk0Nm4zaGttN3Q4OWdrazFjeDEwMzFqb2ptaXB1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif"  />
 </div>
+
+###
+
+###
+
+<h3 align="left">Tech Skills 💻 :</h3>
 
 ###
 
@@ -39,6 +45,12 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
+
+###
+
+###
+
+<h3 align="left">Activity ♻ :</h3>
 
 ###
 
