@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">A 6th semester student majoring in Information Systems with a career interest in programming and artificial intelligence (AI). I am motivated to explore AI concepts and apply them in programming to improve efficiency and productivity.</p>
+<p align="left">A 7th semester student majoring in Information Systems with a career interest in programming and artificial intelligence (AI). I am motivated to explore AI concepts and apply them in programming to improve efficiency and productivity.</p>
 
 ###
 
