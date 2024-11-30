@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Meme 🤡 :</h2>
+<h2 align="left">Motivation 🌟 :</h2>
 
 ###
 
